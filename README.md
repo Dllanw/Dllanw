@@ -1,5 +1,5 @@
 ### Hi there 👋
-![me](./assets/images/chihiro.jpg)
+![me](./assets/images/chihiro.gif)
 
 <!--
 **Dllanw/Dllanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
