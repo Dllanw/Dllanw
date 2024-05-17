@@ -1,5 +1,5 @@
 ### Welcome 🌱 
-![me](./assets/images/away.gif)
+![me](./assets/images/foodc.gif)
 
 
 <!--
